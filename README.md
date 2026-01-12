@@ -4,7 +4,7 @@ A modern, professional portfolio website with an integrated AI assistant powered
 
 ```
 
-5. Run the development server:
+Run the development server:
 ```bash
 npm run dev
 ```
