@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { X, Github, Code } from 'lucide-react';
+import { X, Github } from 'lucide-react';
 
 const ProjectModal = ({ project, onClose }) => {
   useEffect(() => {
