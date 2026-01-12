@@ -229,3 +229,9 @@ async def internal_error_handler(request, exc):
         status_code=404,
         content={"error": "Not found"}
     )
+    
+@app.api_route("/status", methods=["GET", "HEAD"])
+def status():
+    """Health check endpoint."""
+    return {"status": "ok", "message": "Rainfall Project SAIL API is running."}
+    
