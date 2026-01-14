@@ -169,30 +169,30 @@ PORTFOLIO_DATA = {
             "ai_ml": ["Machine Learning","scikit-learn","TensorFlow","LLMs","Groq API","AI Agents"]
         },
     
-    "testimonials": [
-        {
-            "id": 1,
-            "name": "Sarah Johnson",
-            "role": "CTO at TechCorp Solutions",
-            "company": "TechCorp Solutions",
-            "text": "Alex is an exceptional developer who consistently delivers high-quality work. Their ability to architect complex systems and mentor junior developers has been invaluable to our team. I highly recommend Alex for any challenging software project.",
-            "image": "/images/testimonial-1.png"
-        },
-        {
-            "id": 2,
-            "name": "Michael Chen",
-            "role": "Product Manager",
-            "company": "StartupHub Inc",
-            "text": "Working with Alex was a game-changer for our product. They transformed our requirements into elegant solutions and delivered ahead of schedule. Their technical expertise and communication skills made collaboration effortless.",
-            "image": "/images/testimonial-2.png"
-        },
-        {
-            "id": 3,
-            "name": "Emily Rodriguez",
-            "role": "Senior Software Engineer",
-            "company": "Digital Innovations Ltd",
-            "text": "Alex is one of the most talented developers I've worked with. Their code is clean, well-documented, and follows best practices. They're also great at problem-solving and always willing to help teammates.",
-            "image": "/images/testimonial-3.png"
-        }
-    ]
+   "testimonials": [
+    {
+        "id": 1,
+        "name": "Ekum Iwada",
+        "role": "Lecturer & Data Analyst",
+        "company": "Lagos State University of Science and Technology",
+        "text": "Mustafa Mudathir is a highly detail-oriented data analyst who consistently delivers accurate and insightful analyses. His ability to clean complex datasets, build clear dashboards, and translate numbers into meaningful business insights made a real impact on our decision-making process. I strongly recommend Mustafa for data and risk-focused roles.",
+        "image": "/images/testimonial-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Michael Chen",
+        "role": "Product Manager",
+        "company": "StartupHub Inc",
+        "text": "Working with Mustafa was a great experience. He quickly understood our business requirements and transformed raw data into clear, actionable insights. His analytical thinking, strong Excel and SQL skills, and clear communication helped our team identify key risk areas and improve performance.",
+        "image": "/images/testimonial-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Juwon Adeyemi",
+        "role": "Biologist & Data Scientist",
+        "company": "Sail Innovations Lab",
+        "text": "Mustafa is a reliable and analytical professional with a strong foundation in data cleaning, analysis, and visualization. His dashboards are well-structured and easy to interpret, and he consistently applies sound statistical reasoning to solve real business problems. He is a valuable team player and a fast learner.",
+        "image": "/images/testimonial-3.png"
+    }
+]
 }
